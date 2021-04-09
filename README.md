@@ -4,7 +4,7 @@
 ### Monthlies is a female health and well-being app focused on female menstural cycles.
 ### The app simply keeps track of the ladie's period, notifies and sends reminders to her few days before her cycle starts.
 
-### Monthlies manages the risk og getting embrassed in public by uncalculated monthly flow.
+### Monthlies manages the risk of getting embarassed in public by uncalculated monthly flow.
 
 ### Monthlies share daily helpful tips!
 
